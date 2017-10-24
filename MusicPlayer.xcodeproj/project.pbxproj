@@ -14,6 +14,20 @@
 		BC74CD5E1F91067800A3D14A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BC74CD5C1F91067800A3D14A /* LaunchScreen.storyboard */; };
 		BC74CD691F91067900A3D14A /* MusicPlayerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC74CD681F91067900A3D14A /* MusicPlayerTests.swift */; };
 		BC74CD741F91067900A3D14A /* MusicPlayerUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC74CD731F91067900A3D14A /* MusicPlayerUITests.swift */; };
+		BC74CD821F97D34600A3D14A /* Good Ass Intro.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = BC74CD811F97D34600A3D14A /* Good Ass Intro.mp3 */; };
+		BC74CD861F97D36000A3D14A /* Cocoa Butter Kisses.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = BC74CD851F97D36000A3D14A /* Cocoa Butter Kisses.mp3 */; };
+		BC74CD881F97D37700A3D14A /* Pusha Man.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = BC74CD871F97D37700A3D14A /* Pusha Man.mp3 */; };
+		BC74CD8A1F97D38200A3D14A /* Juice.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = BC74CD891F97D38200A3D14A /* Juice.mp3 */; };
+		BC74CD8C1F97D38A00A3D14A /* Lost.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = BC74CD8B1F97D38A00A3D14A /* Lost.mp3 */; };
+		BC74CD8E1F97D39600A3D14A /* Everybodys Something.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = BC74CD8D1F97D39600A3D14A /* Everybodys Something.mp3 */; };
+		BC74CD901F97D3A000A3D14A /* Interlude (Thats Love).mp3 in Resources */ = {isa = PBXBuildFile; fileRef = BC74CD8F1F97D3A000A3D14A /* Interlude (Thats Love).mp3 */; };
+		BC74CD921F97D3A700A3D14A /* Favorite Song.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = BC74CD911F97D3A700A3D14A /* Favorite Song.mp3 */; };
+		BC74CD941F97D3AF00A3D14A /* NaNa.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = BC74CD931F97D3AF00A3D14A /* NaNa.mp3 */; };
+		BC74CD961F97D3C100A3D14A /* Smoke Again.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = BC74CD951F97D3C100A3D14A /* Smoke Again.mp3 */; };
+		BC74CD981F97D3C900A3D14A /* Acid Rain.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = BC74CD971F97D3C900A3D14A /* Acid Rain.mp3 */; };
+		BC74CD9A1F97D3D000A3D14A /* Chain Smoker.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = BC74CD991F97D3D000A3D14A /* Chain Smoker.mp3 */; };
+		BC74CD9C1F97D3DA00A3D14A /* Everythings Good.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = BC74CD9B1F97D3DA00A3D14A /* Everythings Good.mp3 */; };
+		BC74CD9E1F97D50800A3D14A /* AcidRap.jpg in Resources */ = {isa = PBXBuildFile; fileRef = BC74CD9D1F97D50800A3D14A /* AcidRap.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +61,20 @@
 		BC74CD6F1F91067900A3D14A /* MusicPlayerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MusicPlayerUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		BC74CD731F91067900A3D14A /* MusicPlayerUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MusicPlayerUITests.swift; sourceTree = "<group>"; };
 		BC74CD751F91067900A3D14A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BC74CD811F97D34600A3D14A /* Good Ass Intro.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Good Ass Intro.mp3"; sourceTree = "<group>"; };
+		BC74CD851F97D36000A3D14A /* Cocoa Butter Kisses.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Cocoa Butter Kisses.mp3"; sourceTree = "<group>"; };
+		BC74CD871F97D37700A3D14A /* Pusha Man.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Pusha Man.mp3"; sourceTree = "<group>"; };
+		BC74CD891F97D38200A3D14A /* Juice.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Juice.mp3; sourceTree = "<group>"; };
+		BC74CD8B1F97D38A00A3D14A /* Lost.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Lost.mp3; sourceTree = "<group>"; };
+		BC74CD8D1F97D39600A3D14A /* Everybodys Something.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Everybodys Something.mp3"; sourceTree = "<group>"; };
+		BC74CD8F1F97D3A000A3D14A /* Interlude (Thats Love).mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Interlude (Thats Love).mp3"; sourceTree = "<group>"; };
+		BC74CD911F97D3A700A3D14A /* Favorite Song.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Favorite Song.mp3"; sourceTree = "<group>"; };
+		BC74CD931F97D3AF00A3D14A /* NaNa.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = NaNa.mp3; sourceTree = "<group>"; };
+		BC74CD951F97D3C100A3D14A /* Smoke Again.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Smoke Again.mp3"; sourceTree = "<group>"; };
+		BC74CD971F97D3C900A3D14A /* Acid Rain.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Acid Rain.mp3"; sourceTree = "<group>"; };
+		BC74CD991F97D3D000A3D14A /* Chain Smoker.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Chain Smoker.mp3"; sourceTree = "<group>"; };
+		BC74CD9B1F97D3DA00A3D14A /* Everythings Good.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Everythings Good.mp3"; sourceTree = "<group>"; };
+		BC74CD9D1F97D50800A3D14A /* AcidRap.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = AcidRap.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +131,20 @@
 				BC74CD5A1F91067800A3D14A /* Assets.xcassets */,
 				BC74CD5C1F91067800A3D14A /* LaunchScreen.storyboard */,
 				BC74CD5F1F91067800A3D14A /* Info.plist */,
+				BC74CD9D1F97D50800A3D14A /* AcidRap.jpg */,
+				BC74CD811F97D34600A3D14A /* Good Ass Intro.mp3 */,
+				BC74CD871F97D37700A3D14A /* Pusha Man.mp3 */,
+				BC74CD851F97D36000A3D14A /* Cocoa Butter Kisses.mp3 */,
+				BC74CD891F97D38200A3D14A /* Juice.mp3 */,
+				BC74CD8B1F97D38A00A3D14A /* Lost.mp3 */,
+				BC74CD8D1F97D39600A3D14A /* Everybodys Something.mp3 */,
+				BC74CD8F1F97D3A000A3D14A /* Interlude (Thats Love).mp3 */,
+				BC74CD911F97D3A700A3D14A /* Favorite Song.mp3 */,
+				BC74CD931F97D3AF00A3D14A /* NaNa.mp3 */,
+				BC74CD951F97D3C100A3D14A /* Smoke Again.mp3 */,
+				BC74CD971F97D3C900A3D14A /* Acid Rain.mp3 */,
+				BC74CD991F97D3D000A3D14A /* Chain Smoker.mp3 */,
+				BC74CD9B1F97D3DA00A3D14A /* Everythings Good.mp3 */,
 			);
 			path = MusicPlayer;
 			sourceTree = "<group>";
@@ -232,9 +274,23 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BC74CD9E1F97D50800A3D14A /* AcidRap.jpg in Resources */,
 				BC74CD5E1F91067800A3D14A /* LaunchScreen.storyboard in Resources */,
 				BC74CD5B1F91067800A3D14A /* Assets.xcassets in Resources */,
+				BC74CD961F97D3C100A3D14A /* Smoke Again.mp3 in Resources */,
+				BC74CD9C1F97D3DA00A3D14A /* Everythings Good.mp3 in Resources */,
+				BC74CD8C1F97D38A00A3D14A /* Lost.mp3 in Resources */,
+				BC74CD821F97D34600A3D14A /* Good Ass Intro.mp3 in Resources */,
+				BC74CD881F97D37700A3D14A /* Pusha Man.mp3 in Resources */,
 				BC74CD591F91067800A3D14A /* Main.storyboard in Resources */,
+				BC74CD8E1F97D39600A3D14A /* Everybodys Something.mp3 in Resources */,
+				BC74CD981F97D3C900A3D14A /* Acid Rain.mp3 in Resources */,
+				BC74CD8A1F97D38200A3D14A /* Juice.mp3 in Resources */,
+				BC74CD901F97D3A000A3D14A /* Interlude (Thats Love).mp3 in Resources */,
+				BC74CD921F97D3A700A3D14A /* Favorite Song.mp3 in Resources */,
+				BC74CD941F97D3AF00A3D14A /* NaNa.mp3 in Resources */,
+				BC74CD861F97D36000A3D14A /* Cocoa Butter Kisses.mp3 in Resources */,
+				BC74CD9A1F97D3D000A3D14A /* Chain Smoker.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
